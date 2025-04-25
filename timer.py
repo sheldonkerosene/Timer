@@ -12,7 +12,4 @@ def zero_to_infinity():
 
 for y in zero_to_infinity():
     print(time.strftime("%a, %d %b %Y %H:%M:%S"))
-    time.sleep(300)
-
-
-#os.system("ls -la")
+    time.sleep(5)
